@@ -1,8 +1,3 @@
-
-Lejiye Tech Indro ka final, classy, sticker-rich, contribution-focused README — bilkul ready to copy-paste on GitHub.
-100% human, professional, aur future tech giant wali vibe.
-
-markdown
 <!--
 ░▒▓█ TECH INDRO █▓▒░
 From a Learning Platform → Research & Innovation Hub → India's Next Great Tech Company
