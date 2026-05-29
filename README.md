@@ -1,5 +1,5 @@
 <!--
-░▒▓█ TECH INDRO █▓▒░
+░▒▓█ 𝗧𝗲𝗰𝗵 𝗜𝗻𝗱𝗿𝗼 █▓▒░
 From a Learning Platform → Research & Innovation Hub → India's Next Prominent Technology Company
 -->
 
