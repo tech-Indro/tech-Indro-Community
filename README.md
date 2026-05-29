@@ -3,11 +3,11 @@
 From a Learning Platform → Research & Innovation Hub → India's Next Prominent Technology Company
 -->
 
-<h1 align="center">Tech Indro</h1>
+<h1 align="center">Ⓣⓔⓒⓗ Ⓘⓝⓓⓡⓞ</h1>
 <h3 align="center">⚡ – 𝗘𝗸 𝗦𝗮𝗽𝗻𝗮, 𝗘𝗸 𝗦𝗼𝗰𝗵, 𝗘𝗸 𝗙𝘂𝘁𝘂𝗿𝗲 𝗩𝗶𝘀𝗶𝗼𝗻⚡</h3>
 
 <p align="center">
-  <i>"Jab seekhna sirf degree ke liye nahi, desh badalne ke liye ho."</i><br/>
+  <i>"𝑱𝒂𝒃 𝒔𝒆𝒆𝒌𝒉𝒏𝒂 𝒔𝒊𝒓𝒇 𝒅𝒆𝒈𝒓𝒆𝒆 𝒌𝒆 𝒍𝒊𝒚𝒆 𝒏𝒂𝒉𝒊, 𝒅𝒆𝒔𝒉 𝒃𝒂𝒅𝒂𝒍𝒏𝒆 𝒌𝒆 𝒍𝒊𝒚𝒆 𝒉𝒐."</i><br/>
   — <b>Shubham Patel, Founder & CEO</b>
 </p>
 
@@ -169,17 +169,17 @@ Content and projects are open-source unless otherwise specified.
 ## 🙌 Final Words
 
 <p align="center"> 
-  <b>Tech Indro is not yet a company — it is a dream with a deadline.</b><br/> 
-  <b>Contribute, build, or simply believe — but do not stay silent.</b> 
+  <b>𝙏𝙚𝙘𝙝 𝙄𝙣𝙙𝙧𝙤 𝙞𝙨 𝙣𝙤𝙩 𝙮𝙚𝙩 𝙖 𝙘𝙤𝙢𝙥𝙖𝙣𝙮 — 𝙞𝙩 𝙞𝙨 𝙖 𝙙𝙧𝙚𝙖𝙢 𝙬𝙞𝙩𝙝 𝙖 𝙙𝙚𝙖𝙙𝙡𝙞𝙣𝙚.</b><br/> 
+  <b>𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙚, 𝙗𝙪𝙞𝙡𝙙, 𝙤𝙧 𝙨𝙞𝙢𝙥𝙡𝙮 𝙗𝙚𝙡𝙞𝙚𝙫𝙚 — 𝙗𝙪𝙩 𝙙𝙤 𝙣𝙤𝙩 𝙨𝙩𝙖𝙮 𝙨𝙞𝙡𝙚𝙣𝙩.</b> 
 </p>
 
 <p align="center"> 
-  <i>⚡ Learn today, build tomorrow, and one day show the world ⚡</i> 
+  <i>⚡ 𝙇𝙚𝙖𝙧𝙣 𝙩𝙤𝙙𝙖𝙮, 𝙗𝙪𝙞𝙡𝙙 𝙩𝙤𝙢𝙤𝙧𝙧𝙤𝙬, 𝙖𝙣𝙙 𝙤𝙣𝙚 𝙙𝙖𝙮 𝙨𝙝𝙤𝙬 𝙩𝙝𝙚 𝙬𝙤𝙧𝙡𝙙 ⚡</i> 
 </p>
 
 <p align="center"> 
   <img src="https://img.icons8.com/color/48/000000/india.png"/> 
-  <b>Made in India, for the world</b> 
+  <b>█▓▒▒░░░Made in India, for the world░░░▒▒▓█</b> 
   <img src="https://img.icons8.com/color/48/000000/india.png"/> 
 </p>
 
