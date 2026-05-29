@@ -126,10 +126,10 @@ Join our Discord/WhatsApp to discuss ideas and get help.
 
 ## 📊 Our Progress
 
-🚀 Community Growth: ████████████████████ 250K+ Learners
-📚 Content Created: ████████████████░░░░ 100+ Tutorials
-🔨 Open Source Projects: ████████░░░░░░░░░░░░ 15+ Active
-🎯 Target 2026: ██████████████░░░░░░ 500K Learners
+<br>🚀 Community Growth: ████████████████████ 250K+ Learners</br>
+<br>📚 Content Created: ████████████████░░░░ 100+ Tutorials</br>
+<br>🔨 Open Source Projects: ████████░░░░░░░░░░░░ 15+ Active</br>
+<br>🎯 Target 2026: ██████████████░░░░░░ 500K Learners</br>
 
 
 ---
