@@ -1,5 +1,5 @@
 <!--
-░▒▓█ 𝗧𝗲𝗰𝗵 𝗜𝗻𝗱𝗿𝗼 █▓▒░
+░▒▓█ TEᑕᕼ IᑎᗪᖇO █▓▒░
 From a Learning Platform → Research & Innovation Hub → India's Next Prominent Technology Company
 -->
 
@@ -7,7 +7,7 @@ From a Learning Platform → Research & Innovation Hub → India's Next Prominen
 <h3 align="center">⚡ – 𝗘𝗸 𝗦𝗮𝗽𝗻𝗮, 𝗘𝗸 𝗦𝗼𝗰𝗵, 𝗘𝗸 𝗙𝘂𝘁𝘂𝗿𝗲 𝗩𝗶𝘀𝗶𝗼𝗻⚡</h3>
 
 <p align="center">
-  <i>"𝑱𝒂𝒃 𝒔𝒆𝒆𝒌𝒉𝒏𝒂 𝒔𝒊𝒓𝒇 𝒅𝒆𝒈𝒓𝒆𝒆 𝒌𝒆 𝒍𝒊𝒚𝒆 𝒏𝒂𝒉𝒊, 𝒅𝒆𝒔𝒉 𝒃𝒂𝒅𝒂𝒍𝒏𝒆 𝒌𝒆 𝒍𝒊𝒚𝒆 𝒉𝒐."</i><br/>
+  <i>"ᴊᴀʙ ꜱᴇᴇᴋʜᴀɴᴀ ꜱɪʀꜰ ᴅᴇɢʀᴇᴇ ᴋᴇ ʟɪʏᴇ ɴʜɪ,  ʙᴀʟᴋɪ ᴅᴇꜱʜ ʙᴀᴅᴀʟᴀɴᴇ ᴋᴇ ʟɪʏᴇ ʜᴏ."</i><br/>
   — <b>Shubham Patel, Founder & CEO</b>
 </p>
 
