@@ -15,7 +15,7 @@ From a Learning Platform → Research & Innovation Hub → India's Next Great Te
 </p>
 
 <h1 align="center">𝗧𝗲𝗰𝗵 𝗜𝗻𝗱𝗿𝗼</h1>
-<h3 align="center">⚡ एक सपना | एक सोच | एक Future Vision ⚡</h3>
+<h3 align="center">⚡EK Sapna | EK Soch | EK Future Vision ⚡</h3>
 
 <p align="center">
   <i>"Jab seekhna sirf degree ke liye nahi, desh badalne ke liye ho — tab Tech Indro ka asli matlab samajh aata hai."</i><br/>
