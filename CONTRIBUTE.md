@@ -4,12 +4,6 @@ CONTRIBUTION GUIDELINES
 From a Learning Platform → Research & Innovation Hub → India's Next Prominent Technology Company
 -->
 
-<p align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" alt="AI" width="70"/>
-  <img src="https://img.icons8.com/fluency/96/000000/robotics.png" alt="Robotics" width="70"/>
-  <img src="https://img.icons8.com/fluency/96/000000/cloud.png" alt="Cloud" width="70"/>
-</p>
-
 <h1 align="center">Contributing to Tech Indro</h1>
 
 <p align="center">
