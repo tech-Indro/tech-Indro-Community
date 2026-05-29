@@ -3,15 +3,6 @@
 From a Learning Platform → Research & Innovation Hub → India's Next Prominent Technology Company
 -->
 
-<p align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" alt="AI" width="70"/>
-  <img src="https://img.icons8.com/fluency/96/000000/robotics.png" alt="Robotics" width="70"/>
-  <img src="https://img.icons8.com/fluency/96/000000/virtual-reality.png" alt="AR/VR" width="70"/>
-  <img src="https://img.icons8.com/fluency/96/000000/internet-of-things.png" alt="IoT" width="70"/>
-  <img src="https://img.icons8.com/fluency/96/000000/cloud.png" alt="Cloud" width="70"/>
-  <img src="https://img.icons8.com/fluency/96/000000/industry.png" alt="Industry 4.0" width="70"/>
-</p>
-
 <h1 align="center">Tech Indro</h1>
 <h3 align="center">⚡ – 𝗘𝗸 𝗦𝗮𝗽𝗻𝗮, 𝗘𝗸 𝗦𝗼𝗰𝗵, 𝗘𝗸 𝗙𝘂𝘁𝘂𝗿𝗲 𝗩𝗶𝘀𝗶𝗼𝗻⚡</h3>
 
