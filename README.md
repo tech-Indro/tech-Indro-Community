@@ -137,8 +137,8 @@ Join our Discord/WhatsApp to discuss ideas and get help.
 ## 💬 Connect With Us
 
 <p align="center"> 
-  📧 <b>Email</b>: <a href="mailto:hello@techindro.com">hello@techindro.com</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-  🐦 <b>Twitter</b>: @techindro &nbsp;&nbsp;|&nbsp;&nbsp; 
+  📧 <b>Email</b>: <a href="mailto:hello@techindro.com">hello@techindro.com</a> &nbsp;&nbsp;|&nbsp;&nbsp; </p>
+  🐦 <b>Twitter</b>: @techindro &nbsp;&nbsp;|&nbsp;&nbsp; </p>
   📸 <b>Instagram</b>: @techindro &nbsp;&nbsp;|&nbsp;&nbsp; 
   🔗 <b>LinkedIn</b>: Tech Indro &nbsp;&nbsp;|&nbsp;&nbsp; 
   🌐 <b>Website</b>: Coming Soon 
