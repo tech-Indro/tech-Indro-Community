@@ -1,4 +1,4 @@
-# tech-Indro-Community
+# TECH-INDRO-COMMUNITY
 
 <!--
 ░▒▓█ TECH INDRO █▓▒░
